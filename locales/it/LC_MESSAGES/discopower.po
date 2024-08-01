@@ -55,7 +55,7 @@ msgid "{discopower:tabs:norway}"
 msgstr "Norvegia"
 
 msgid "{discopower:tabs:misc}"
-msgstr "IdP vari"
+msgstr "Misti"
 
 msgid "{discopower:tabs:incremental_search}"
 msgstr "Ricerca incrementale..."
